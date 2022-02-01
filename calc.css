@@ -1,0 +1,11 @@
+#screen{
+    text-align: right;
+    height: 25px;
+    padding: 3px 4px;
+}
+table td{
+    width: 30px;
+}
+table td button{
+    width: 100%;
+}
